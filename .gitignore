@@ -1,0 +1,6 @@
+*.cywrk.*
+*.cyprj.*
+codegentemp/
+CortexM*/
+Generated_Source/
+Archive/

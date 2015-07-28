@@ -1,0 +1,40 @@
+Last Modified Date & Time: 12/14/2014 11:37:31
+
+Project : PSOC5_brain
+		Schematic : TopDesign
+
+		MIDI_IN1	v 2.0tv 2.5
+		MIDI_OUT1	v 2.0tv 2.5
+		LED_PWM1	v 2.0tv 2.5
+		spi_S_mosi	v 2.0tv 2.5
+		spi_S_sclk	v 2.0tv 2.5
+		spi_S_CS	v 2.0tv 2.5
+		SPI_M_MISO	v 2.0tv 2.5
+		SPI_S_MISO	v 2.0tv 2.5
+		SPI_M_MOSI	v 2.0tv 2.5
+		SPI_M_SCLK	v 2.0tv 2.5
+
+Project : xyTouchpad1
+		Design Wide APIs
+
+		cy_boot	v 4.10	v 4.11
+
+Project : miniBirlBiran
+		Design Wide APIs
+
+		cy_boot	v 4.10	v 4.11
+
+Project : PSOC5_brain
+		Design Wide APIs
+
+		cy_boot	v 4.10	v 4.11
+
+Project : 3dmin
+		Design Wide APIs
+
+		cy_boot	v 4.10	v 4.11
+
+
+Last Modified Date & Time: 03/10/2015 17:30:55
+
+
